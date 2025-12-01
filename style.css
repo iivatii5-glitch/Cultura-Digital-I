@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(159, 215, 236);
+}
+
+.cubo{
+text-align:center;
+background-color:rgb(85, 36, 247);
+border-radius: 15px;
+padding: 10px;
+font-family: sans-serif;
+font-size: 30px;
+width: 200px;
+color:rgb(255, 255, 255);
+}
+
+.rectangulo{
+text-align:center;
+background-color:rgb(46, 217, 255);
+border-radius: 100px;
+padding: 10px;
+font-family: Arial;
+font-size: 15px;
+color:rgb(255, 255, 255);
+}
+
+article{
+     float: left;
+    width: 50%;      
+}
+
+aside{
+    float:right;
+    width: 50%;
+}
+button{
+    color:black;
+    border-radius: 15px;
+    background-color:cyan;
+    size: 30px;
+    font-size: 15px;
+    text-align:center;
+
+}
